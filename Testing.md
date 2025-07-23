@@ -1,3 +1,5 @@
+“This tool is for educational, ethical hacking, and research purposes only. Do not use on systems you don’t own or have permission to test.”
+
 # 🧪 Testing Guide – Stealth USB Data Exfiltration Tool
 
 This document outlines how to safely test the Stealth USB Data Exfiltration Tool in a controlled, ethical lab environment.
