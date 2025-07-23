@@ -11,7 +11,10 @@ INCLUDE:
 🛠️ Tools Used (.bat, .vbs, Python)
 
 🔐 Disclaimer for educational use only
+
 💻 How to Use (e.g., "Insert USB → Auto-run triggers usbthief.py in hidden mode")
+
 🧹 Stealth Mechanisms: invisible.vbs, clear_logs.bat
+
 🧪 Testing Guide (on VMs/labs only)
 
