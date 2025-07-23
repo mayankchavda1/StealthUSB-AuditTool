@@ -1,3 +1,6 @@
+# DISCLAIMER: This tool is created strictly for ethical hacking education, sandbox/lab testing, or authorized red teaming.
+# Any unauthorized usage is illegal and unethical. Use at your own risk and only with consent.
+
 
 import os
 import shutil
