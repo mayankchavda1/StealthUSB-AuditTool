@@ -1,0 +1,6 @@
+
+[autorun]
+label=USB Data Tool
+icon=usb.ico
+open=autorun.bat
+action=Run USB Tool
